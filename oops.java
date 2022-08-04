@@ -7,12 +7,14 @@ class Emloyee{
         System.out.println("enter the salary");
         Scanner scan = new Scanner(System.in);
         salary= scan.nextInt();
+        scan.close();
         return salary;
     }
     public String getName() {
         System.out.println("enter the name");
         Scanner scan = new Scanner(System.in);
         name = scan.next();
+        scan.close();
         return name;
     }
     public void detail(int salary , String name) {
