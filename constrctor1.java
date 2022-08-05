@@ -1,6 +1,3 @@
-/**
- * employee
- */
 class employee {
     private int id;
     private String name;
