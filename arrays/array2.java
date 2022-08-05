@@ -1,3 +1,4 @@
+package arrays;
 public class array2 {
     public static void main(String[] args) {
         // Two dimention array

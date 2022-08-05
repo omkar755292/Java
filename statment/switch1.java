@@ -1,3 +1,4 @@
+package statment;
 import java.util.Scanner;
 
 public class switch1 {
