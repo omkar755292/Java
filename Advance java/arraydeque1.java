@@ -11,8 +11,9 @@ public class arraydeque1 {
         ad1.addFirst(22);
         ad1.add(8);
         ad1.addFirst(32);
+        System.out.println(ad1.clone());
         System.out.println(ad1.getFirst());
-        System.out.println(ad1.getLast());
+        System.out.println(ad1.element());
     }
 
 }
