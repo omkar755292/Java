@@ -9,5 +9,7 @@ public class hashset1 {
         sh1.add(53);
         sh1.add(56);
         System.out.println(sh1.clone());
+        System.out.println(System.currentTimeMillis());
+        System.out.println(Long.MAX_VALUE);
     }
 }
